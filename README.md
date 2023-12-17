@@ -6,7 +6,7 @@ LoaderGo-快速生成免杀木马GUI版本，bypass主流杀软
 
 最近在学习免杀，学了如何使用go来实现shellcode加载器，于是打算写一款gui版本的shellcode加载器。实测过 bypass火绒、金山毒霸、360全家桶、360核晶、wdf、迈克菲等主流杀软
 
-可视化界面参考了wails：https://wails.io/zh-Hans/。 
+可视化界面参考了wails：https://wails.io/zh-Hans/ 
 
 本LoaderGo只公开了一些基础加载方式，明年开始会陆续更新更多加载方式。但总体来说，使用go来写会遇到各种依赖问题，后续尽量转移到C语言上。
 
@@ -27,7 +27,7 @@ https://go.dev/dl/go1.20.12.windows-amd64.msi 下载安装go
 
 ![image-20231217002139389](./Readme.assets/image-20231217002139389.png)
 
-如果环境内有多个版本Go，可以使用g:https://github.com/voidint/g来进行管理，亲测好用
+如果环境内有多个版本Go，可以使用g:https://github.com/voidint/g  来进行管理，亲测好用
 
 ![image-20231217002327817](./Readme.assets/image-20231217002327817.png)
 
