@@ -33,6 +33,8 @@ https://go.dev/dl/go1.20.12.windows-amd64.msi 下载安装go
 
 https://git-scm.com/download/win 安装git
 
+这里需要注意，git安装之后默认不会添加到环境变量，我们需要手动将其加入环境变量
+
 https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe
 
 ![image-20231217004628761](./Readme.assets/image-20231217004628761.png)
